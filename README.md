@@ -5,6 +5,15 @@
 
 ---
 
+## 🧠 About the Author / Theory
+> **William Allen Sisemore** is an independent theorist and systems thinker exploring the intersection of consciousness, computation, and simulated reality.  
+> In 2025, he authored the *Distributed Computational Simulation Hypothesis (DCSH)* — the first published model proposing that each conscious being acts as a processing node supplying the computational power required to sustain reality itself.  
+> His work reframes simulation theory through the lens of distributed computing, attention economics, and biological energy systems, offering a scalable alternative to centralized “god-server” simulation concepts.  
+>  
+> Sisemore’s focus is on clarity and practical understanding — bridging philosophical insight with scientific reasoning, without the hype or conspiratorial noise that often clouds the topic.
+
+---
+
 ## Overview
 The **Distributed Computational Simulation Hypothesis (DCSH)** proposes that if reality is a simulation, it operates not through a centralized “god server,” but as a **distributed computing network** where each conscious entity functions as a **node** providing the computational power necessary to render its own experiential environment.  
 
@@ -64,6 +73,15 @@ Cognitive fatigue corresponds to processing limits; biological rest resets avail
 ## Suggested Citation
 Sisemore, W. A. (2025). *Distributed Computational Simulation Hypothesis (DCSH): A participant-powered architecture for simulated reality.*  
 Version 1.0. https://github.com/YourUsername/Distributed-Computational-Simulation-Hypothesis  
+
+---
+## 🔹 Repository Tagline
+*A scalable simulation model proposing that each conscious being is a computational node powering reality itself — by William Allen Sisemore.*
+
+---
+
+## 🔹 Social Preview / SEO Description
+*William Allen Sisemore’s Distributed Computational Simulation Hypothesis (DCSH) describes a universe-scale simulation powered by distributed consciousness — a theory where each living being acts as a processing node rendering its own local reality.*
 
 ---
 
